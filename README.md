@@ -1,4 +1,4 @@
-# day12
+# weatherApp
 
 A new Flutter project.
 
